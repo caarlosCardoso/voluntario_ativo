@@ -1,0 +1,17 @@
+-Integrantes: Carlos E. R. Cardoso.
+-
+-Nome Projeto: Voluntário Ativo.
+-
+-Bugs:
+-As vezes o campo keybord formatado para apenas number aparece o teclado normal. 
+-Esse problema foi "resolvido" configurando o inputFormatters do campo para apenas digitos.
+-
+-Funcionalidades Faltantes:
+-Ainda não foi implementados os cards do "Projeto" e dos "Comentários" para a exibição.
+-Esses cards serão criados a partir os dados constantes no banco de dados.
+-
+-
+-
+-
+-
+-
