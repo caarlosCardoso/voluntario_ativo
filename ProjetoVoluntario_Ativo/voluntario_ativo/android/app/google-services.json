@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415330292286",
+    "project_id": "voluntario-ativo-app",
+    "storage_bucket": "voluntario-ativo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415330292286:android:6b136fd45c3c3f59a9776f",
+        "android_client_info": {
+          "package_name": "com.example.voluntario_ativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415330292286-lic6h4ml2b470mgqciv9kiijnrkmoget.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSW6VgC-AISor3UIwmGEnCyxrzNzZmzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415330292286-lic6h4ml2b470mgqciv9kiijnrkmoget.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
